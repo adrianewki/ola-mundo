@@ -1,0 +1,38 @@
+head{
+    border-bottom: 1px solid gray;
+}
+
+body {
+    background-color: #305050;
+    color: beige;
+}
+
+.container-titulo-primario{
+    text-align: center;
+}
+
+.container-descricao {
+    color: beige;
+}
+
+.container-titulo-secundario {
+    text-align: center;
+    color: #FFA500;
+}
+
+.container-titulo-terciario {
+    text-align: center;
+    color: #FFA500;
+}
+
+.container-imagem-mundo {
+    text-align: center;
+}
+
+.container-rodape {
+    text-align: center;
+}
+
+footer{
+    border-top: 1px solid gray;
+}
